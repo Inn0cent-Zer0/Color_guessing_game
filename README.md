@@ -1,4 +1,4 @@
-🎨 Color Guessing Game
+🎨 Color Guessing Game  
 A fun and visually engaging RGB color guessing game built using HTML, CSS, and JavaScript. Features a colorful gradient background and smooth transitions to provide a modern and interactive user experience.
 
 ✨ Designed and coded with love by Vaish 💻🧠
