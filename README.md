@@ -12,17 +12,17 @@ A fun and visually engaging RGB color guessing game built using HTML, CSS, and J
 
 ---
 
-💡 Features
+💡 Features  
 🎯 Interactive RGB color guessing logic  
 🎨 Vibrant linear-gradient background  
 ⚡ Real-time feedback on choices  
 🖱️ Button hover and click transitions  
 📱 Responsive layout across screen sizes  
-🧼 Clean, readable code for learners and developers  
+🧼 Clean, readable code for learners and developers
 
 ---
 
-🚀 Technologies Used
+🚀 Technologies Used  
 - **HTML5** – Page structure and game layout  
 - **CSS3** – Styling, colors, transitions  
 - **JavaScript (Vanilla)** – Logic for generating colors, handling clicks, and displaying results  
@@ -30,27 +30,26 @@ A fun and visually engaging RGB color guessing game built using HTML, CSS, and J
 
 ---
 
-🕹️🎮How to play
+🕹️ How to Play  
 1. The game displays a random RGB color code.  
 2. You must guess which color square matches the code.  
 3. Click on a color block to see if it matches.  
 4. If you’re right, the page changes to that color and you win.  
-5. If you’re wrong, that color fades out and you try again!
+5. If you’re wrong, that color fades out and you try again!  
 
 ---
 
-🔧 How to run locally
-**1.** **Clone or download the repository**  
+🔧 How to Run Locally  
+1. **Clone or download the repository**  
 
 git clone https://github.com/your-username/color-guessing-game.git  
 cd color-guessing-game
-**2. Open index.html in your browser**
 
 1. Simply double-click the file Or right-click → "Open with Live Server" (if using VS Code)
 
-📁📂 Folder Structure
+📂 Folder Structure
 
-Color Guessing Game/
+012_Color Guessing Game/
 ├── index.html        # Game interface and layout  
 ├── style.css         # Styling and layout rules  
 ├── script.js         # Game logic and interactivity  
