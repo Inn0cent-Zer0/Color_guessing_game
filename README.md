@@ -51,7 +51,7 @@ cd color-guessing-game
 **📂 Folder Structure
 **
 
-012_Color Guessing Game/
+Color Guessing Game/
 ├── index.html        # Game interface and layout  
 ├── style.css         # Styling and layout rules  
 ├── script.js         # Game logic and interactivity  
